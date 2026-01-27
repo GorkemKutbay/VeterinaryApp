@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "App.Api.Controllers.VeterinaryController",
+    "Method": "GetAllPatients",
+    "RelativePath": "api/Veterinary",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "App.Api.Controllers.VeterinaryController",
+    "Method": "AddPatient",
+    "RelativePath": "api/Veterinary",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "patient",
+        "Type": "App.Api.Data.Entities.Patient",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "App.Api.Controllers.VeterinaryController",
+    "Method": "GetPatient",
+    "RelativePath": "api/Veterinary/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "App.Api.Controllers.VeterinaryController",
+    "Method": "UpdatePatient",
+    "RelativePath": "api/Veterinary/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "patient",
+        "Type": "App.Api.Data.Entities.Patient",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "App.Api.Controllers.VeterinaryController",
+    "Method": "DeletePatient",
+    "RelativePath": "api/Veterinary/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

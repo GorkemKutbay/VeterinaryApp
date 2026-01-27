@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kutba\\Desktop\\Veteriner Klinik\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA71A78-A28F-8F84-EF7E-17686113D26D}|App.Api\\App.Api.csproj|c:\\users\\kutba\\desktop\\veteriner klinik\\app\\app.api\\controllers\\veterinarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA71A78-A28F-8F84-EF7E-17686113D26D}|App.Api\\App.Api.csproj|solutionrelative:app.api\\controllers\\veterinarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA71A78-A28F-8F84-EF7E-17686113D26D}|App.Api\\App.Api.csproj|c:\\users\\kutba\\desktop\\veteriner klinik\\app\\app.api\\data\\veterinarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA71A78-A28F-8F84-EF7E-17686113D26D}|App.Api\\App.Api.csproj|solutionrelative:app.api\\data\\veterinarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA71A78-A28F-8F84-EF7E-17686113D26D}|App.Api\\App.Api.csproj|c:\\users\\kutba\\desktop\\veteriner klinik\\app\\app.api\\data\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA71A78-A28F-8F84-EF7E-17686113D26D}|App.Api\\App.Api.csproj|solutionrelative:app.api\\data\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA71A78-A28F-8F84-EF7E-17686113D26D}|App.Api\\App.Api.csproj|c:\\users\\kutba\\desktop\\veteriner klinik\\app\\app.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA71A78-A28F-8F84-EF7E-17686113D26D}|App.Api\\App.Api.csproj|solutionrelative:app.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA71A78-A28F-8F84-EF7E-17686113D26D}|App.Api\\App.Api.csproj|c:\\users\\kutba\\desktop\\veteriner klinik\\app\\app.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DA71A78-A28F-8F84-EF7E-17686113D26D}|App.Api\\App.Api.csproj|solutionrelative:app.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA71A78-A28F-8F84-EF7E-17686113D26D}|App.Api\\App.Api.csproj|c:\\users\\kutba\\desktop\\veteriner klinik\\app\\app.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DA71A78-A28F-8F84-EF7E-17686113D26D}|App.Api\\App.Api.csproj|solutionrelative:app.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\kutba\\Desktop\\Veteriner Klinik\\App\\App.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "App.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\kutba\\Desktop\\Veteriner Klinik\\App\\App.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "App.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-25T18:16:45.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VeterinaryController.cs",
+              "DocumentMoniker": "C:\\Users\\kutba\\Desktop\\Veteriner Klinik\\App\\App.Api\\Controllers\\VeterinaryController.cs",
+              "RelativeDocumentMoniker": "App.Api\\Controllers\\VeterinaryController.cs",
+              "ToolTip": "C:\\Users\\kutba\\Desktop\\Veteriner Klinik\\App\\App.Api\\Controllers\\VeterinaryController.cs",
+              "RelativeToolTip": "App.Api\\Controllers\\VeterinaryController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T21:57:25.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kutba\\Desktop\\Veteriner Klinik\\App\\App.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "App.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\kutba\\Desktop\\Veteriner Klinik\\App\\App.Api\\appsettings.json",
+              "RelativeToolTip": "App.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-19T23:24:28.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kutba\\Desktop\\Veteriner Klinik\\App\\App.Api\\Program.cs",
+              "RelativeDocumentMoniker": "App.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\kutba\\Desktop\\Veteriner Klinik\\App\\App.Api\\Program.cs",
+              "RelativeToolTip": "App.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T23:24:28.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VeterinaryContext.cs",
+              "DocumentMoniker": "C:\\Users\\kutba\\Desktop\\Veteriner Klinik\\App\\App.Api\\Data\\VeterinaryContext.cs",
+              "RelativeDocumentMoniker": "App.Api\\Data\\VeterinaryContext.cs",
+              "ToolTip": "C:\\Users\\kutba\\Desktop\\Veteriner Klinik\\App\\App.Api\\Data\\VeterinaryContext.cs",
+              "RelativeToolTip": "App.Api\\Data\\VeterinaryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T23:23:11.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\kutba\\Desktop\\Veteriner Klinik\\App\\App.Api\\Data\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "App.Api\\Data\\Entities\\Patient.cs",
+              "ToolTip": "C:\\Users\\kutba\\Desktop\\Veteriner Klinik\\App\\App.Api\\Data\\Entities\\Patient.cs",
+              "RelativeToolTip": "App.Api\\Data\\Entities\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T23:15:15.861Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
